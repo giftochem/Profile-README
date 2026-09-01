@@ -58,7 +58,7 @@ CLI utility built to simplify Android debugging operations on Ubuntu systems.
 ## 📫 Connect With Me
 
 - email: giftochem5@gmail.com
-- X (Twitter): @gift_ooh
+- X (Twitter): @gift_oog
 
 ---
 
